@@ -1,0 +1,23 @@
+==================================================
+REPORTE DE EVALUACIÓN: OPENCV + EASYOCR (CPU)
+==================================================
+Fecha: 2025-12-02 23:49:22
+Total Imágenes: 500
+--------------------------------------------------
+1. MÉTRICAS DE DETECCIÓN
+   Precision (P):    1.0000
+   Recall (R):       1.0000
+   F1-Score:         1.0000
+--------------------------------------------------
+2. MÉTRICAS DE OCR (RECONOCIMIENTO)
+   PAR (Plate Accuracy):     34.20%
+   CAR (Character Accuracy): 86.88%
+   CER (Character Error):    13.12%
+   WER (Word Error Rate):    65.80%
+   Levenshtein Promedio:     1.05
+--------------------------------------------------
+3. RENDIMIENTO
+   Tiempo Total:     816.64 seg
+   FPS:              0.61
+   Latencia:         1633.27 ms/img
+==================================================
